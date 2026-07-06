@@ -12,3 +12,19 @@ This repository contains my solutions to LeetCode problems implemented in C++.
 - C++
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0011-container-with-most-water) |
+<!---LeetCode Topics End-->
