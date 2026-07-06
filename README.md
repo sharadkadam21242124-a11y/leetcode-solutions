@@ -18,6 +18,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Two Pointers
@@ -36,4 +37,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
