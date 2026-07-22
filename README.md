@@ -20,6 +20,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -28,6 +29,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
