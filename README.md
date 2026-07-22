@@ -29,6 +29,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2187-minimum-time-to-complete-trips](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2460-apply-operations-to-an-array](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -91,6 +92,7 @@ Happy Coding! 🚀
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2187-minimum-time-to-complete-trips](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Prefix Sum
 |  |
