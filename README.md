@@ -29,6 +29,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2460-apply-operations-to-an-array](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
@@ -40,6 +41,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [2460-apply-operations-to-an-array](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Happy Coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [2460-apply-operations-to-an-array](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
