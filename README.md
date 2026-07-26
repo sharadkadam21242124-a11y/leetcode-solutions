@@ -19,6 +19,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0027-remove-element) |
@@ -53,6 +54,7 @@ Happy Coding! 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -94,6 +96,7 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
