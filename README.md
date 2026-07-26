@@ -23,6 +23,7 @@ Happy Coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@ Happy Coding! 🚀
 | [0007-reverse-integer](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
