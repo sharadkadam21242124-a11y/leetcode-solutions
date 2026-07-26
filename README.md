@@ -72,6 +72,7 @@ Happy Coding! 🚀
 | [0009-palindrome-number](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0410-split-array-largest-sum](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2187-minimum-time-to-complete-trips](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
