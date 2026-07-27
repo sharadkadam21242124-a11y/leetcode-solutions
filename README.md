@@ -27,6 +27,7 @@ Happy Coding! 🚀
 | [0066-plus-one](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -44,6 +45,7 @@ Happy Coding! 🚀
 | [0027-remove-element](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [2460-apply-operations-to-an-array](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
@@ -88,6 +90,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Simulation
 |  |
 | ------- |
