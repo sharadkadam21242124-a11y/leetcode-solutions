@@ -48,6 +48,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -89,6 +90,7 @@ Happy Coding! 🚀
 | [0021-merge-two-sorted-lists](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,5 +124,10 @@ Happy Coding! 🚀
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
