@@ -18,22 +18,18 @@ public:
             slow=slow->next;
             fast=fast->next->next;
             if(slow==fast){
-                slow=head;
-                while(slow!=fast){
-                    slow=slow->next;
-                    fast=fast->next;
-                }
-                return slow;
+                count=1;
+                break;
             }
         }
-        // if(count==1){
-        //     slow=head;
-        //     while(slow!=head){
-        //         slow=slow->next;
-        //         fast=fast->next->next;
-        //     }
-        //     return slow;
-        // }
+        if(count==1){
+            slow=head;
+            while(slow!=fast){
+                slow=slow->next;
+                fast=fast->next;
+            }
+            return slow;
+        }
 
         return NULL;
     }
