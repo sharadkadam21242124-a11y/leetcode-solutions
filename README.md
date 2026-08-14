@@ -49,6 +49,7 @@ Happy Coding! 🚀
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
@@ -119,4 +120,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
