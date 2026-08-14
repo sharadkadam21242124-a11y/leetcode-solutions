@@ -48,6 +48,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -74,6 +75,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
@@ -123,6 +125,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -130,4 +133,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
