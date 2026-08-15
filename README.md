@@ -78,6 +78,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -143,4 +144,12 @@ Happy Coding! 🚀
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
