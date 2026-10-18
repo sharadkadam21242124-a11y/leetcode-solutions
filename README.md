@@ -138,6 +138,7 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -148,8 +149,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
