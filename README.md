@@ -35,6 +35,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2187-minimum-time-to-complete-trips](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -143,6 +144,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -165,4 +167,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sharadkadam21242124-a11y/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
